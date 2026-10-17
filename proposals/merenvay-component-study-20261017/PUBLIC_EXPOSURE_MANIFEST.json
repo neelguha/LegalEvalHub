@@ -1,0 +1,49 @@
+{
+  "status": "DRAFT_ELIGIBILITY_PROPOSAL",
+  "release_scope": "Only the 12 files enumerated in this manifest under proposals/merenvay-component-study-20261017/ are in this public eligibility draft; all other paths are excluded.",
+  "files": [
+    "PR_BODY_DRAFT.md",
+    "PUBLIC_EXPOSURE_MANIFEST.json",
+    "SUMMARY.md",
+    "TRANSPARENT_APPENDIX.md",
+    "candidate_records/abercrombie/run_2026_10_17_203032_a4284b.json",
+    "candidate_records/contract_nli_limited_use/run_2026_10_17_203032_5dc98b.json",
+    "candidate_records/cuad_anti-assignment/run_2026_10_17_203032_5c4189.json",
+    "candidate_records/cuad_cap_on_liability/run_2026_10_17_203032_daf2e6.json",
+    "candidate_records/hearsay/run_2026_10_17_203032_7c7233.json",
+    "candidate_records/legal_reasoning_causality/run_2026_10_17_203032_cc6b2f.json",
+    "candidate_records/personal_jurisdiction/run_2026_10_17_203032_fbd1bb.json",
+    "candidate_records/ucc_v_common_law/run_2026_10_17_203032_f17839.json"
+  ],
+  "disclosed": [
+    "Applicant name",
+    "public standalone component identity",
+    "eight task identifiers and local prompt identifier",
+    "proposal IDs and preparation timestamp",
+    "all eight candidate metric dictionaries and sample counts",
+    "non-proprietary cohort/method limits",
+    "four later screen scores and explicit CUAD qualification",
+    "aborted predecessor operational counts",
+    "public dataset/repository revisions and source links"
+  ],
+  "excluded": [
+    "all PRIVATE_LOCAL_VALIDATION material",
+    "raw prompts and prompt fingerprints",
+    "source code and internal orchestration",
+    "raw response envelopes and request/response IDs",
+    "model/server binary fingerprints",
+    "hardware/network/runtime identifiers",
+    "credentials",
+    "client/employer data",
+    "unhosted or fabricated predictions URLs"
+  ],
+  "ranking_hold": "Eligibility review is requested before ingestion or merge; candidate records are outside eval_runs/, but no machine-enforced ranking exclusion has been verified.",
+  "candidate_record_location": "proposals/merenvay-component-study-20261017/candidate_records/",
+  "timestamp_note": "Candidate JSON submission_time values are unchanged proposal-preparation timestamps, not successful submission, acceptance, or ranking timestamps.",
+  "publication_status_note": "Posting and review status are recorded by the associated GitHub PR; this manifest makes no acceptance or ranking claim.",
+  "measurement_flags": {
+    "new_inference_for_this_proposal": false,
+    "private_execution_material_included": false,
+    "candidate_json_bytes_changed": false
+  }
+}

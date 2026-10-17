@@ -1,0 +1,16 @@
+{
+  "submission_id": "run_2026_10_17_203032_a4284b",
+  "task_id": "abercrombie",
+  "model_name": "Qwen3-4B-Q4_K_M",
+  "prompt_id": "legalbench_base_label_only_component_v1",
+  "submitter": "Mohammed Mazen Al Nasser",
+  "submission_time": "2026-10-17T20:30:32Z",
+  "metrics": {
+    "accuracy": 0.4583333333333333,
+    "balanced_accuracy": 0.47619047619047616,
+    "f1_macro": 0.3571428571428571,
+    "f1_micro": 0.4583333333333333,
+    "valid_predictions_ratio": 1.0,
+    "n_samples": 24
+  }
+}

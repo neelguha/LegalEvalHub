@@ -1,0 +1,16 @@
+{
+  "submission_id": "run_2026_10_17_203032_7c7233",
+  "task_id": "hearsay",
+  "model_name": "Qwen3-4B-Q4_K_M",
+  "prompt_id": "legalbench_base_label_only_component_v1",
+  "submitter": "Mohammed Mazen Al Nasser",
+  "submission_time": "2026-10-17T20:30:32Z",
+  "metrics": {
+    "accuracy": 0.6666666666666666,
+    "balanced_accuracy": 0.6643356643356644,
+    "f1_macro": 0.6643356643356644,
+    "f1_micro": 0.6666666666666666,
+    "valid_predictions_ratio": 1.0,
+    "n_samples": 24
+  }
+}
